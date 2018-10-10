@@ -122,9 +122,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Charles-de-Montigny"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-       url: "https://www.linkedin.com/in/charles-demontigny-590684a9/"
+    # - label: "Linkedin"
+    #   icon: "fab fa-fw fa-linkedin"
+    #    url: "https://www.linkedin.com/in/charles-demontigny-590684a9/"
 
 # Site Footer
 footer:
